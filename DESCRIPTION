@@ -1,6 +1,6 @@
-Package: rpersian
+Package: persian
 Type: Package
-Title: R Persian Lib (RPersian)
+Title: R Persian utility functions (Persian)
 Version: 0.1.0
 Author: Dariush Abbasi
 Maintainer: Dariush Abbasi <poshtehani@gmail.com>
